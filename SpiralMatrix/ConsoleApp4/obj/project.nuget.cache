@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8o0bHPvpsMTNylg2jBWI1adMJCDpmfaK9awUI2c26v8ySJNpfdpFsl/RFfBRsZsECJUwWcMsxGimSznW1dW9xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FundTesttt\\ConsoleApp4\\SpiralMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
